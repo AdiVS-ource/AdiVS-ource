@@ -34,5 +34,5 @@ Projects
 - Snake Water Gun Game
 
 Reach me
-- Email-adityavardhansingh234@gmail.com
+- adityavardhansingh234@gmail.com
 
