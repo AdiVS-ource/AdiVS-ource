@@ -2,10 +2,6 @@
 
 Computer Science student interested in Machine Learning and Computer Vision.
 
-## Currently Working On
-- 🎬 Image-to-Media Recommendation System using CLIP
-- 🐾 Real-Life Pokémon Game using Computer Vision
-- 🤖 Learning Deep Learning and PyTorch
 
 ## Tech Stack
 
