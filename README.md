@@ -9,6 +9,8 @@ Languages
 - Python
 - SQL
 - C++
+- Java
+- C
 
 Libraries
 - PyTorch
